@@ -39,6 +39,18 @@ enable ubuntu in resources for WSL
 
 ![image](https://github.com/user-attachments/assets/30e532a8-4338-4447-9e5b-b281497481ae)
 
+while runninng docker info from powershell got below error:
+
+![image](https://github.com/user-attachments/assets/b586c6e1-95cf-42b8-ae24-7051c4fdd9fc)
+
+Solution:
+
+![image](https://github.com/user-attachments/assets/6eab56ae-7efa-4144-ae9b-438d795cefc4)
+
+Reboot windows system if required.
+
+
+
 
 
 
