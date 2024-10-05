@@ -28,6 +28,19 @@ Open Docker Desktop. Singn in with creds.
 
 ![image](https://github.com/user-attachments/assets/03756135-80d1-463f-9501-55ac6c409b8f)
 
+while executing docker info command, got below error.
+
+
+![image](https://github.com/user-attachments/assets/fb4ea042-1c72-446b-ae46-d4d761459d88)
+
+Solution:
+
+enable ubuntu in resources for WSL
+
+![image](https://github.com/user-attachments/assets/30e532a8-4338-4447-9e5b-b281497481ae)
+
+
+
 
 
 
